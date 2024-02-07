@@ -1,0 +1,52 @@
+body{
+   background-image: url('https://ibrcalculator.com/asset/img/cal.jpg');
+}
+
+
+.discount-calculator {
+  max-width: 500px;
+   margin: 0 auto; 
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #dfdce9;
+}
+
+.input-group {
+  margin-bottom: 15px; }
+
+
+.input-group label {
+  display: block;
+ margin-bottom: 10px; 
+}
+
+.input-group input {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 5px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #5945a0;
+}
+
+.final-price {
+   margin-top: 20px; }
+
+
+.final-price h2 {
+  color: #4caf50;
+}
